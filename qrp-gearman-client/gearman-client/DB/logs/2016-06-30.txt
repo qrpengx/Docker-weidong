@@ -1,0 +1,2 @@
+Time : 05:35:17
+SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
